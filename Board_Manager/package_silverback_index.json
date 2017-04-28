@@ -1,29 +1,29 @@
 {
   "packages": [
     {
-      "name": "myboard",
+      "name": "Surilli",
       "maintainer": "Jane Developer",
-      "websiteURL": "https://github.com/janedeveloper/myboard",
+      "websiteURL": "https://github.com/janedeveloper/Surilli",
       "email": "jane@janedeveloper.org",
       "help": {
-        "online": "http://janedeveloper.org/forum/myboard"
+        "online": "http://janedeveloper.org/forum/Surilli"
       },
       "platforms": [
         {
-          "name": "My Board",
+          "name": "Surilli",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
           "help": {
-            "online": "http://janedeveloper.org/forum/myboard"
+            "online": "http://janedeveloper.org/forum/Surilli"
           },
-          "url": "https://janedeveloper.github.io/myboard/myboard-1.0.0.zip",
-          "archiveFileName": "myboard-1.0.0.zip",
+          "url": "https://janedeveloper.github.io/Surilli/Surilli-1.0.0.zip",
+          "archiveFileName": "Surilli-1.0.0.zip",
           "checksum": "SHA-256:ec3ff8a1dc96d3ba6f432b9b837a35fd4174a34b3d2927de1d51010e8b94f9f1",
           "size": "15005",
           "boards": [
-            {"name": "My Board"},
-            {"name": "My Board Pro"}
+            {"name": "Surilli"},
+            {"name": "Surilli Pro"}
           ],
           "toolsDependencies": [
             {
@@ -39,20 +39,20 @@
           ]
         },
         {
-          "name": "My Board",
+          "name": "Surilli",
           "architecture": "avr",
           "version": "1.0.1",
           "category": "Contributed",
           "help": {
-            "online": "http://janedeveloper.org/forum/myboard"
+            "online": "http://janedeveloper.org/forum/Surilli"
           },
-          "url": "https://janedeveloper.github.io/myboard/myboard-1.0.1.zip",
-          "archiveFileName": "myboard-1.0.1.zip",
+          "url": "https://janedeveloper.github.io/Surilli/Surilli-1.0.1.zip",
+          "archiveFileName": "Surilli-1.0.1.zip",
           "checksum": "SHA-256:9c86ee28a7ce9fe33e8b07ec643316131e0031b0d22e63bb398902a5fdadbca9",
           "size": "15125",
           "boards": [
-            {"name": "My Board"},
-            {"name": "My Board Pro"}
+            {"name": "Surilli"},
+            {"name": "Surilli Pro"}
           ],
           "toolsDependencies": [
             {
